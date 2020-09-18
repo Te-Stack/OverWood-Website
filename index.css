@@ -482,7 +482,7 @@ footer h2{
 
 
 
-@media screen and (max-width:770px) {
+@media screen and (max-width:1024px) {
     .home{
         height:45vh;
         background-color: #E5EEF6; 
